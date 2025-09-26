@@ -43,8 +43,7 @@
 
 ---
 
-## 📂 Featured Projects  
-📌 *Pin these repos on your profile so they show up*  
+## 📂 Featured Projects   
 
 - [**Airflow ETL Pipeline**](https://github.com/K12Boateng/mini-data-platform)  
   Orchestrated a batch pipeline pulling API data into Snowflake.  
