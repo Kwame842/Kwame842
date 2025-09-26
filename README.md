@@ -59,7 +59,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kwame842&show_icons=true&theme=radical" height="180" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Kwame842&show_icons=true&theme=radical" height="180" /> -->
+  <img src="https://streak-stats.demolab.com?user=Kwame842&theme=radical&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwame842&layout=compact&theme=radical" height="180" />
 </p>
 
