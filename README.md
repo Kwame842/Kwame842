@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏾, I'm Kwame Boateng</h1>
 
 <p align="center">
-  <img src="https://github.com/Kwame842/Kwame842/blob/main/profile-pic.png" alt="Profile Picture" width="120" style="border-radius:50%;" />
+  <img src="https://github.com/Kwame842/Kwame842/blob/main/profile-pic-circular.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%; object-fit:cover;" />
 </p>
 
 <h3 align="center"> Data Engineer | Cloud & Big Data Enthusiast | Open Source Contributor</h3>
