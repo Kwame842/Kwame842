@@ -34,11 +34,11 @@
 **Cloud & Databases**  
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white" /> -->
 </p>
 
 ---
